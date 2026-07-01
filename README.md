@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReeceC747
 - 👀 I’m interested in DND, video game, coding
-- 🌱 I’m currently learning Java, MYSQL
+- 🌱 I’m currently making a game reccommendation and achievement tracker website
 - 📫 How to reach me Not putting that in yet
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im making this becuase git hub wanted me too for the student package
